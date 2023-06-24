@@ -1,0 +1,11 @@
+{
+  "_output_dir": "C:\\Work\\CIF\\csf-hass-repos",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "CSF",
+  "domain_name": "csf_home_component",
+  "friendly_name": "CSF Home Component",
+  "github_user": "cipacda",
+  "project_name": "csf-home-component",
+  "test_suite": "yes",
+  "version": "1.0.0"
+}

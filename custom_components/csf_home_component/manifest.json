@@ -1,0 +1,10 @@
+{
+  "domain": "csf_home_component",
+  "name": "CSF Home Component",
+  "documentation": "https://github.com/cipacda/csf-home-component",
+  "issue_tracker": "https://github.com/cipacda/csf-home-component/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@cipacda"],
+  "requirements": []
+}
